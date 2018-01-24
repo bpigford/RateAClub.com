@@ -1,0 +1,104 @@
+html {
+  background-color: #41464f;
+}
+
+.container {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.my-2 {
+  margin-left: 3%;
+  margin-right: 3%; 
+  font-size: 1.85em;
+}
+
+#sub {
+  margin: 0px;
+}
+
+h5 {
+  margin-left: 2px;
+}
+
+#help-header {
+  background-color: #131314;
+}
+
+#help {
+  color: #fcfcfc;
+}
+
+.text-center {
+  background-color: #41464f;
+  border-color: white;
+  border-radius: 0px;
+  margin-bottom: 1px;
+}
+
+.bg-light {
+  background-color: #41464f;
+}
+
+footer {
+  background-color: #41464f;
+}
+
+.list-container {
+  margin-bottom: 25px;
+}
+
+.list-header {
+  background-color: #f4eb42;
+}
+
+ol {
+  background-color: #7a808c;
+}
+
+ul {
+  background-color: #7a808c;
+  list-style-type: none;
+}
+
+li {
+  margin-bottom: 3px;
+}
+
+#card-back {
+  background-color: #41464f;
+}
+
+#topbar {
+  border-bottom: 1px solid white;
+}
+
+.mr-auto {
+  margin-right: 20%;
+}
+
+.mt-md-0 {
+  margin-left: 25%;
+}
+
+.navbar-brand {
+  margin-right: 10%;
+  padding-left: 3%;
+}
+
+.login-container {
+  background-color: #f4eb42;
+  padding: 20px;
+  display: inline-block;
+  position: absolute;
+  left: 18%;
+}
+
+#create {
+  border-bottom: 10px solid #f4eb42;
+  margin: 0px;
+}
+
+.my-log {
+  display: block;
+}
