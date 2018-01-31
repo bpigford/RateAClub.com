@@ -6,7 +6,7 @@
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     
     <link rel="stylesheet" href="bootstrap/bootstrap.min.css">
-    <link rel="stylesheet" href="css/homeStyle.css">
+    <link rel="stylesheet" href="css/clubStyle.css">
   </head>
   
   <body>
@@ -46,8 +46,8 @@
         </form>
       </div>
     </nav>
-    <div class="login-container">  <!-- added -->
-      <form class="my-log login-form" action="login.php" method="POST">
+    
+      <!--<form class="my-log login-form" action="login.php" method="POST">
         <div class="my-log login-top">
           <p>Username</p>
           <input type="text" name="username" />
@@ -59,27 +59,20 @@
         <div class="my-log login-mid-mid">
           <input type="Submit" value="Login" />
         </div>
-        <input class="lgbutton" type="button" value="Logout" onclick="window.location.href='http://www.rateaclub.org'"/>
-        <div class="my-log login-mid-bottom">
-        <p>Forgot Password?
-      </div>
-      <div class="my-log login-bottom">
-        <p id="create">Create Account</p>
-      </div>
-	  </div> <!-- added -->
 	
+	    <input class="lgbutton" type="button" value="Logout" onclick="window.location.href='http://www.rateaclub.org'"/>
   
-  </form>
+    </form>
  </div>
       
-      <!--<div class="my-log login-mid-bottom">
+<div class="my-log login-mid-bottom">
         <p>Forgot Password?
       </div>
 
       <div class="my-log login-bottom">
         <p id="create">Create Account</p>
-      </div>-->
-    </div>
+      </div>
+    </div>-->
       <!--<div class="navbar navbar-dark bg-dark box-shadow">
         <div class="container d-flex justify-content-between">
           <a href="#" class="navbar-brand d-flex align-items-center">
@@ -98,10 +91,19 @@
       <section class="jumbotron text-center">
         <div class="container">
           <p>
-            <a href="#" class="btn btn-primary my-2">Find Club</a>
-            <a href="#" class="btn btn-primary my-2">Find School</a>
-            <a href="#" class="btn btn-primary my-2">Rate Club</a>
-            <a href="#" class="btn btn-primary my-2">Club Info</a>
+            <div class="contact-container">
+              <h4>Contact Info:</h4>
+              <p>Email: placeholder@somewhere.edu</p>
+              <p>Phone: 555-555-5555</p>
+            </div>
+            <div class="club-container">
+              <h4>School Placeholder</h4>
+              <h4>Club Placeholder</h4>
+            </div>
+            <div class="star-container">
+              <h4>Overall Rating</h4>
+              <p>Star Placeholder</p>
+            </div>
           </p>
         </div>
       </section>
@@ -113,16 +115,19 @@
             <div class="col-md-4">
               <div class="card mb-4 box-shadow">
                 <div class="card-body">
-                  <div class="list-container">
-                    <div class="list-header" id="help-header">
-                      <h5 id="help">Help</h5>
+                  <div class="info-container">
+                    <div class="list-header">
+                      <h5>Club Information</h5>
                     </div>
-                    <ul>
-                      <li>Want to add a club?</li>
-                      <li>Want to add a school?</li>
-                      <li>Contacts for website help</li>
-                      <li>Submit a help ticket</li>
-                    </ul>
+                    <div class="info-div">
+                      <p>Information Placeholder</p>
+                    </div>
+                    <div class="list-header">
+                      <h5>Club Media</h5>
+                    </div>
+                    <div class="media-div" style="overflow-y:scroll; height:400px;">
+                      <p>Media Placeholder</p>
+                    </div>
                   </div>
                 </div>
               </div>
@@ -130,55 +135,51 @@
             <div class="col-md-4">
               <div class="card mb-4 box-shadow">
                 <div class="card-body" id="card-back">
-                  <div class="list-container">
-                    <div class="list-header">
-                      <h5>TOP 10 OVERALL RATED CLUBS</h5>
+                  <div class="comment-background">
+                    <div class="comment-header">
+                      <h5>RATINGS AND COMMENTS</h5>
                     </div>
-                    <ol>
-                      <li>Placeholder 1</li>
-                      <li>Placeholder 2</li>
-                      <li>Placeholder 3</li>
-                      <li>Placeholder 4</li>
-                      <li>Placeholder 5</li>
-                      <li>Placeholder 6</li>
-                      <li>Placeholder 7</li>
-                      <li>Placeholder 8</li>
-                      <li>Placeholder 9</li>
-                      <li>Placeholder 10</li>
-                    </ol>
+                    <div class="rate-div">
+                      <a href="#" class="btn btn-primary my-2" id="rate-btn">Rate This Club</a>
+                    </div>
+                    <div style="overflow-y:scroll; height:400px;">
+                      <div class="comment">
+                        <div class="star-div">
+                          <p>Rating Placeholder</p>
+                        </div>
+                        <div class="comment-text">
+                          <p>Comment Placeholder</p>
+                        </div>
+                      </div>
+                      
+                      <div class="comment">
+                        <div class="star-div">
+                          <p>Rating Placeholder</p>
+                        </div>
+                        <div class="comment-text">
+                          <p>Comment Placeholder</p>
+                        </div>
+                      </div>
+                      
+                      <div class="comment">
+                        <div class="star-div">
+                          <p>Rating Placeholder</p>
+                        </div>
+                        <div class="comment-text">
+                          <p>Comment Placeholder</p>
+                        </div>
+                      </div>
+                      
+                      <div class="comment">
+                        <div class="star-div">
+                          <p>Rating Placeholder</p>
+                        </div>
+                        <div class="comment-text">
+                          <p>Comment Placeholder</p>
+                        </div>
+                      </div>
+                    </div>
                   </div>
-                  
-                  <div class="list-container">
-                    <div class="list-header">
-                      <h5>TOP 10 RATED SCHOOLS BY CLUB</h5>
-                    </div>
-                    <ol>
-                      <li>Placeholder 1</li>
-                      <li>Placeholder 2</li>
-                      <li>Placeholder 3</li>
-                      <li>Placeholder 4</li>
-                      <li>Placeholder 5</li>
-                      <li>Placeholder 6</li>
-                      <li>Placeholder 7</li>
-                      <li>Placeholder 8</li>
-                      <li>Placeholder 9</li>
-                      <li>Placeholder 10</li>
-                    </ol>
-                  </div>
-                  
-                  <!--<div class="list-container">
-                    <div class="list-header">
-                      <h5>TOP 5 OVERALL RATED CLUBS BY SCHOOL</h5>
-                    </div>
-                    <ol>
-                      <li>Placeholder 1</li>
-                      <li>Placeholder 2</li>
-                      <li>Placeholder 3</li>
-                      <li>Placeholder 4</li>
-                      <li>Placeholder 5</li>
-                    </ol>
-                  </div>-->
-                </div>
               </div>
             </div>
             <!--<div class="col-md-4">
