@@ -47,6 +47,29 @@
       </div>
     </nav>
     
+    <div class="login-container">  <!-- added -->
+        <form class="my-log login-form" action="login.php" method="POST">
+          <div class="my-log login-top">
+            <p>Username</p>
+            <input type="text" name="username" />
+          </div>
+          <div class="my-log login-mid-top">
+            <p>Password</p>
+            <input type="password" name="password" />
+          </div>
+          <div class="my-log login-mid-mid">
+            <input type="Submit" value="Login" />
+          </div>
+          <input class="lgbutton" type="button" value="Logout" onclick="window.location.href='http://www.rateaclub.org'"/>
+          <div class="my-log login-mid-bottom">
+          <p>Forgot Password?
+          </div>
+          <div class="my-log login-bottom">
+            <p id="create">Create Account</p>
+          </div>
+        </form>
+  	  </div> <!-- added -->
+    
       <!--<form class="my-log login-form" action="login.php" method="POST">
         <div class="my-log login-top">
           <p>Username</p>
