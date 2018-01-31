@@ -92,7 +92,6 @@ li {
   display: inline-block;
   position: absolute;
   left: 18%;
-  z-index: 1;
 }
 
 #create {
@@ -104,4 +103,61 @@ li {
   display: block;
 }
 
+.contact-container {
+  border-radius: 10px;
+  padding: 15px;
+  margin-right: 2%;
+  width: 30%;
+  display: inline-block;
+  background-color: white;
+}
 
+.club-container {
+  border-radius: 35px;
+  padding: 15px;
+  margin-left: 2%;
+  margin-right: 2%;
+  width: 30%;
+  display: inline-block;
+  background-color: red;
+}
+
+.star-container {
+  border-radius: 10px;
+  padding: 15px;
+  margin-left: 2%;
+  width: 30%;
+  display: inline-block;
+  background-color: grey;
+}
+
+.comment-header {
+  background-color: #f4eb42;
+}
+
+#rate-btn {
+  margin: auto;
+}
+
+.comment-background {
+  background-color: #7a808c;
+  padding: 10px;
+}
+
+.comment-text {
+  background-color: white;
+  border-radius: 5px;
+  padding-left: 7px;
+  padding-right: 7px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.star-div {
+  margin-top: 10px;
+}
+
+.info-container {
+  background-color: #7a808c;
+  padding: 10px;
+}
