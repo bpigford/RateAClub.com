@@ -32,6 +32,10 @@
             echo 'no email<br>';
             array_push($data_missing, 'Email');
         }
+	else if(!preg_match("/@./", $_POST['email']) {
+		echo 'invalid email format<br>';
+		array_push($data_missing, 'Email');
+	}
         else {
             $email = trim($_POST['email']);
         }
@@ -53,15 +57,15 @@
 		echo 'pass too short<br>';
 			array_push($data_missing, 'Password');
 		}
-		else if(preg_match("/A-Z/", $pword)) {
+		else if(!preg_match("/A-Z/", $pword)) {
 		echo 'no capital letter found in password<br>';
 			array_push($data_missing, 'Password');
 		}
-		else if(preg_match("/0-9/", $pword)) {
+		else if(!preg_match("/0-9/", $pword)) {
 		echo 'no number found in password<br>';	
 			array_push($data_missing, 'Password');
 		}
-		else if(preg_match("/!@#$%^&*?+-=_/", $pword)) {
+		else if(!preg_match("/!@#$%^&*?+-=_/", $pword)) {
 		echo 'no special character found in password<br>';
 			array_push($data_missing, 'Password');
 		}
