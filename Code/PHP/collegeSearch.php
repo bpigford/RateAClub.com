@@ -2,13 +2,13 @@
 	require_once('DBconnect.php');
 	
 	$collegequery = "SELECT college_name FROM Colleges WHERE college_name LIKE '%" . $_POST['collegesearch'] . "%'";
-	$collegelist = mysqli_query($dbc, $query);
+	$collegelist = $dbc->query($collegequery);
 	
 	if($collegelist->num_rows > 0) {
         $x = 1;
 		echo '<div class="result-div" style="overflow-y:scroll; height:400px;">';
 		echo '<table class="main-table">';
-		echo '<tr class="table-head-row"><th>Organization</th><th>Rating</th>';
+		echo '<tr class="table-head-row"><th>College</th><th>Rating</th>';
 		while($row = $collegelist->fetch_assoc()) {
 			echo "<tr class=\"";
 			if ($x % 2 == 0)
