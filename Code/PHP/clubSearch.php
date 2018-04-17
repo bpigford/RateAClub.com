@@ -2,7 +2,7 @@
 	require_once('DBconnect.php');
 	
 	$clubquery = "SELECT Clubs.club_name, Colleges.college_name FROM Clubs INNER JOIN Colleges ON Clubs.college_id=Colleges.college_id WHERE club_name LIKE '%" . $_POST['clubsearch'] . "%'";
-	$clublist = mysqli_query($dbc, $query);
+	$clublist = $dbc->query($clubquery);
 	
 	if($clublist->num_rows > 0) {
         $x = 1;
