@@ -1,0 +1,426 @@
+[31-Jan-2018 20:36:13 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'RateTeam'@'ip-23-229-242-167.ip.secureserver.net' (using password: YES) in /home/rateteam/public_html/PHP/DBconnect.php on line 8
+[31-Jan-2018 20:41:05 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'RateTeam'@'ip-23-229-242-167.ip.secureserver.net' (using password: YES) in /home/rateteam/public_html/PHP/DBconnect.php on line 8
+[31-Jan-2018 20:42:38 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'RateTeam'@'ip-23-229-242-167.ip.secureserver.net' (using password: YES) in /home/rateteam/public_html/PHP/DBconnect.php on line 8
+[31-Jan-2018 20:42:38 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/rateteam/public_html/PHP/login.php on line 70
+[31-Jan-2018 20:47:18 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'RateTeam'@'ip-23-229-242-167.ip.secureserver.net' (using password: YES) in /home/rateteam/public_html/PHP/DBconnect.php on line 8
+[31-Jan-2018 20:47:18 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/rateteam/public_html/PHP/login.php on line 75
+[31-Jan-2018 20:48:10 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'RateTeam'@'ip-23-229-242-167.ip.secureserver.net' (using password: YES) in /home/rateteam/public_html/PHP/DBconnect.php on line 8
+[31-Jan-2018 20:48:10 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/rateteam/public_html/PHP/login.php on line 75
+[31-Jan-2018 20:49:01 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'RateTeam'@'ip-23-229-242-167.ip.secureserver.net' (using password: YES) in /home/rateteam/public_html/PHP/DBconnect.php on line 8
+[31-Jan-2018 20:49:01 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/rateteam/public_html/PHP/login.php on line 75
+[31-Jan-2018 20:51:05 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'RateTeam'@'ip-23-229-242-167.ip.secureserver.net' (using password: YES) in /home/rateteam/public_html/PHP/DBconnect.php on line 8
+[31-Jan-2018 20:51:05 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/rateteam/public_html/PHP/login.php on line 28
+[31-Jan-2018 20:51:05 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/rateteam/public_html/PHP/login.php on line 65
+[31-Jan-2018 20:51:05 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/rateteam/public_html/PHP/login.php on line 75
+[31-Jan-2018 20:55:35 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'RateTeam'@'ip-23-229-242-167.ip.secureserver.net' (using password: YES) in /home/rateteam/public_html/PHP/DBconnect.php on line 8
+[31-Jan-2018 20:55:35 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/rateteam/public_html/PHP/login.php on line 28
+[31-Jan-2018 20:55:35 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/rateteam/public_html/PHP/login.php on line 65
+[31-Jan-2018 20:55:35 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/rateteam/public_html/PHP/login.php on line 75
+[31-Jan-2018 20:57:19 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'RateTeam'@'ip-23-229-242-167.ip.secureserver.net' (using password: YES) in /home/rateteam/public_html/PHP/DBconnect.php on line 8
+[31-Jan-2018 20:57:19 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/rateteam/public_html/PHP/login.php on line 28
+[31-Jan-2018 20:57:19 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/rateteam/public_html/PHP/login.php on line 65
+[31-Jan-2018 20:57:19 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/rateteam/public_html/PHP/login.php on line 75
+[31-Jan-2018 20:59:52 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'RateTeam'@'ip-23-229-242-167.ip.secureserver.net' (using password: YES) in /home/rateteam/public_html/PHP/DBconnect.php on line 8
+[31-Jan-2018 20:59:52 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/rateteam/public_html/PHP/login.php on line 28
+[31-Jan-2018 20:59:52 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/rateteam/public_html/PHP/login.php on line 68
+[31-Jan-2018 20:59:52 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/rateteam/public_html/PHP/login.php on line 78
+[31-Jan-2018 21:00:42 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'RateTeam'@'ip-23-229-242-167.ip.secureserver.net' (using password: YES) in /home/rateteam/public_html/PHP/DBconnect.php on line 8
+[31-Jan-2018 21:00:42 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/rateteam/public_html/PHP/login.php on line 28
+[31-Jan-2018 21:00:42 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/rateteam/public_html/PHP/login.php on line 68
+[31-Jan-2018 21:00:42 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/rateteam/public_html/PHP/login.php on line 78
+[31-Jan-2018 21:03:24 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'RateTeam'@'ip-23-229-242-167.ip.secureserver.net' (using password: YES) in /home/rateteam/public_html/PHP/login.php on line 8
+[31-Jan-2018 21:03:24 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/rateteam/public_html/PHP/login.php on line 38
+[31-Jan-2018 21:03:24 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/rateteam/public_html/PHP/login.php on line 78
+[31-Jan-2018 21:03:24 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/rateteam/public_html/PHP/login.php on line 88
+[31-Jan-2018 21:06:43 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'RateTeam'@'ip-23-229-242-167.ip.secureserver.net' (using password: YES) in /home/rateteam/public_html/PHP/login.php on line 8
+[31-Jan-2018 21:06:43 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/rateteam/public_html/PHP/login.php on line 38
+[31-Jan-2018 21:06:43 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/rateteam/public_html/PHP/login.php on line 78
+[31-Jan-2018 21:06:43 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/rateteam/public_html/PHP/login.php on line 88
+[31-Jan-2018 21:10:15 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'RateTeam'@'ip-23-229-242-167.ip.secureserver.net' (using password: YES) in /home/rateteam/public_html/PHP/login.php on line 8
+[31-Jan-2018 21:10:15 UTC] PHP Warning:  print_r(): Property access is not allowed yet in /home/rateteam/public_html/PHP/login.php on line 10
+[31-Jan-2018 21:10:15 UTC] PHP Warning:  print_r(): Property access is not allowed yet in /home/rateteam/public_html/PHP/login.php on line 10
+[31-Jan-2018 21:10:15 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/rateteam/public_html/PHP/login.php on line 10
+[31-Jan-2018 21:10:15 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/rateteam/public_html/PHP/login.php on line 10
+[31-Jan-2018 21:10:15 UTC] PHP Warning:  print_r(): Property access is not allowed yet in /home/rateteam/public_html/PHP/login.php on line 10
+[31-Jan-2018 21:10:15 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/rateteam/public_html/PHP/login.php on line 10
+[31-Jan-2018 21:10:15 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/rateteam/public_html/PHP/login.php on line 10
+[31-Jan-2018 21:10:15 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/rateteam/public_html/PHP/login.php on line 10
+[31-Jan-2018 21:10:15 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/rateteam/public_html/PHP/login.php on line 10
+[31-Jan-2018 21:10:15 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/rateteam/public_html/PHP/login.php on line 10
+[31-Jan-2018 21:10:15 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/rateteam/public_html/PHP/login.php on line 10
+[31-Jan-2018 21:10:15 UTC] PHP Warning:  print_r(): Property access is not allowed yet in /home/rateteam/public_html/PHP/login.php on line 10
+[31-Jan-2018 21:10:15 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/rateteam/public_html/PHP/login.php on line 10
+[31-Jan-2018 21:10:15 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/rateteam/public_html/PHP/login.php on line 10
+[31-Jan-2018 21:10:15 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/rateteam/public_html/PHP/login.php on line 10
+[31-Jan-2018 21:10:15 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/rateteam/public_html/PHP/login.php on line 10
+[31-Jan-2018 21:10:15 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/rateteam/public_html/PHP/login.php on line 39
+[31-Jan-2018 21:10:15 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/rateteam/public_html/PHP/login.php on line 79
+[31-Jan-2018 21:10:15 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/rateteam/public_html/PHP/login.php on line 89
+[31-Jan-2018 21:11:14 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/rateteam/public_html/PHP/login.php on line 79
+[31-Jan-2018 21:13:49 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/rateteam/public_html/PHP/login.php on line 77
+[31-Jan-2018 21:23:34 UTC] PHP Notice:  Use of undefined constant mysqli_affected_rows - assumed 'mysqli_affected_rows' in /home/rateteam/public_html/PHP/login.php on line 43
+[31-Jan-2018 21:25:20 UTC] PHP Warning:  mysqli_fetch_field() expects exactly 1 parameter, 0 given in /home/rateteam/public_html/PHP/login.php on line 44
+[31-Jan-2018 21:27:53 UTC] PHP Notice:  Undefined property: mysqli_result::$fetch_array in /home/rateteam/public_html/PHP/login.php on line 43
+[31-Jan-2018 21:27:53 UTC] PHP Notice:  Undefined variable: db_password in /home/rateteam/public_html/PHP/login.php on line 47
+[31-Jan-2018 21:27:53 UTC] PHP Notice:  Undefined variable: db_password in /home/rateteam/public_html/PHP/login.php on line 48
+[31-Jan-2018 23:33:48 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/login.php on line 87
+[31-Jan-2018 23:33:48 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/login.php on line 87
+[31-Jan-2018 23:33:48 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/login.php on line 87
+[31-Jan-2018 23:33:48 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/login.php on line 87
+[31-Jan-2018 23:33:54 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/login.php on line 87
+[31-Jan-2018 23:33:54 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/login.php on line 87
+[31-Jan-2018 23:33:54 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/login.php on line 87
+[31-Jan-2018 23:33:54 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/login.php on line 87
+[01-Feb-2018 02:34:38 UTC] PHP Notice:  Undefined property: mysqli_result::$fetch_array in /home/rateteam/public_html/PHP/login.php on line 43
+[01-Feb-2018 02:34:38 UTC] PHP Notice:  Undefined variable: db_password in /home/rateteam/public_html/PHP/login.php on line 47
+[01-Feb-2018 02:34:38 UTC] PHP Notice:  Undefined variable: db_password in /home/rateteam/public_html/PHP/login.php on line 48
+[01-Feb-2018 02:38:10 UTC] PHP Notice:  Undefined variable: db_password in /home/rateteam/public_html/PHP/login.php on line 47
+[01-Feb-2018 02:38:10 UTC] PHP Notice:  Undefined variable: db_password in /home/rateteam/public_html/PHP/login.php on line 48
+[05-Feb-2018 02:29:34 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/login.php on line 93
+[05-Feb-2018 02:29:34 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/login.php on line 93
+[05-Feb-2018 02:29:34 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/login.php on line 93
+[05-Feb-2018 02:29:34 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/login.php on line 93
+[05-Feb-2018 16:37:00 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/login.php on line 93
+[05-Feb-2018 16:37:00 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/login.php on line 93
+[05-Feb-2018 16:37:00 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/login.php on line 93
+[05-Feb-2018 16:37:00 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/login.php on line 93
+[07-Feb-2018 00:06:19 UTC] PHP Fatal error:  Only variables can be passed by reference in /home/rateteam/public_html/PHP/createUser.php on line 66
+[07-Feb-2018 00:07:10 UTC] PHP Fatal error:  Only variables can be passed by reference in /home/rateteam/public_html/PHP/createUser.php on line 66
+[07-Feb-2018 00:07:12 UTC] PHP Fatal error:  Only variables can be passed by reference in /home/rateteam/public_html/PHP/createUser.php on line 66
+[07-Feb-2018 00:09:13 UTC] PHP Fatal error:  Only variables can be passed by reference in /home/rateteam/public_html/PHP/createUser.php on line 66
+[07-Feb-2018 00:13:02 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/createUser.php on line 47
+[07-Feb-2018 00:13:02 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/createUser.php on line 47
+[07-Feb-2018 00:14:55 UTC] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING), expecting ',' or ';' in /home/rateteam/public_html/PHP/createUser.php on line 59
+[07-Feb-2018 00:14:58 UTC] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING), expecting ',' or ';' in /home/rateteam/public_html/PHP/createUser.php on line 59
+[07-Feb-2018 00:15:14 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/createUser.php on line 47
+[07-Feb-2018 00:15:14 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/createUser.php on line 47
+[07-Feb-2018 00:15:25 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/createUser.php on line 47
+[07-Feb-2018 00:15:25 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/createUser.php on line 47
+[07-Feb-2018 00:15:47 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/createUser.php on line 47
+[07-Feb-2018 00:15:47 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/createUser.php on line 47
+[07-Feb-2018 00:15:56 UTC] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING), expecting ',' or ';' in /home/rateteam/public_html/PHP/createUser.php on line 59
+[07-Feb-2018 00:17:57 UTC] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING), expecting ',' or ';' in /home/rateteam/public_html/PHP/createUser.php on line 59
+[07-Feb-2018 00:20:15 UTC] PHP Parse error:  syntax error, unexpected 'array_push' (T_STRING), expecting ',' or ';' in /home/rateteam/public_html/PHP/createUser.php on line 24
+[07-Feb-2018 00:20:24 UTC] PHP Parse error:  syntax error, unexpected 'array_push' (T_STRING), expecting ',' or ';' in /home/rateteam/public_html/PHP/createUser.php on line 24
+[07-Feb-2018 00:20:36 UTC] PHP Parse error:  syntax error, unexpected 'array_push' (T_STRING), expecting ',' or ';' in /home/rateteam/public_html/PHP/createUser.php on line 24
+[07-Feb-2018 00:22:34 UTC] PHP Parse error:  syntax error, unexpected 'array_push' (T_STRING), expecting ',' or ';' in /home/rateteam/public_html/PHP/createUser.php on line 24
+[07-Feb-2018 00:23:08 UTC] PHP Parse error:  syntax error, unexpected 'array_push' (T_STRING), expecting ',' or ';' in /home/rateteam/public_html/PHP/createUser.php on line 24
+[07-Feb-2018 00:23:35 UTC] PHP Parse error:  syntax error, unexpected 'array_push' (T_STRING), expecting ',' or ';' in /home/rateteam/public_html/PHP/createUser.php on line 24
+[07-Feb-2018 00:23:47 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/rateteam/public_html/PHP/createUser.php on line 25
+[07-Feb-2018 00:26:33 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rateteam/public_html/PHP/createUser.php on line 96
+[07-Feb-2018 00:28:14 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/rateteam/public_html/PHP/createUser.php on line 25
+[07-Feb-2018 00:30:01 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/rateteam/public_html/PHP/createUser.php on line 26
+[07-Feb-2018 00:30:10 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/rateteam/public_html/PHP/createUser.php on line 26
+[07-Feb-2018 00:32:43 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/rateteam/public_html/PHP/createUser.php on line 26
+[07-Feb-2018 00:33:30 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/rateteam/public_html/PHP/createUser.php on line 26
+[07-Feb-2018 00:33:46 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/rateteam/public_html/PHP/createUser.php on line 27
+[07-Feb-2018 00:34:55 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/rateteam/public_html/PHP/createUser.php on line 25
+[07-Feb-2018 00:38:20 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/rateteam/public_html/PHP/createUser.php on line 55
+[07-Feb-2018 00:42:24 UTC] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING), expecting ',' or ';' in /home/rateteam/public_html/PHP/createUser.php on line 66
+[07-Feb-2018 00:43:07 UTC] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING), expecting ',' or ';' in /home/rateteam/public_html/PHP/createUser.php on line 66
+[07-Feb-2018 00:45:50 UTC] PHP Fatal error:  Only variables can be passed by reference in /home/rateteam/public_html/PHP/createUser.php on line 75
+[07-Feb-2018 16:20:21 UTC] PHP Fatal error:  Only variables can be passed by reference in /home/rateteam/public_html/PHP/createUser.php on line 75
+[07-Feb-2018 16:25:31 UTC] PHP Fatal error:  Only variables can be passed by reference in /home/rateteam/public_html/PHP/createUser.php on line 75
+[07-Feb-2018 16:30:17 UTC] PHP Fatal error:  Only variables can be passed by reference in /home/rateteam/public_html/PHP/createUser.php on line 75
+[09-Feb-2018 15:56:57 UTC] PHP Fatal error:  Only variables can be passed by reference in /home/rateteam/public_html/PHP/createUserAccount.php on line 75
+[10-Feb-2018 18:24:02 UTC] PHP Notice:  Undefined variable: collegeID in /home/rateteam/public_html/PHP/createUserAccount.php on line 81
+[10-Feb-2018 18:24:02 UTC] PHP Notice:  Undefined variable: collegeID in /home/rateteam/public_html/PHP/createUserAccount.php on line 87
+[10-Feb-2018 18:36:21 UTC] PHP Notice:  Undefined variable: collegeID in /home/rateteam/public_html/PHP/createUserAccount.php on line 81
+[10-Feb-2018 18:36:21 UTC] PHP Notice:  Undefined variable: collegeID in /home/rateteam/public_html/PHP/createUserAccount.php on line 88
+[10-Feb-2018 18:40:37 UTC] PHP Notice:  Undefined variable: collegeID in /home/rateteam/public_html/PHP/createUserAccount.php on line 81
+[10-Feb-2018 18:40:37 UTC] PHP Notice:  Undefined variable: collegeID in /home/rateteam/public_html/PHP/createUserAccount.php on line 88
+[13-Feb-2018 16:10:25 UTC] PHP Warning:  preg_match(): Compilation failed: nothing to repeat at offset 9 in /home/rateteam/public_html/PHP/createUserAccount.php on line 64
+[13-Feb-2018 16:19:38 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/login.php on line 93
+[13-Feb-2018 16:19:38 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/login.php on line 93
+[13-Feb-2018 16:19:38 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/login.php on line 93
+[13-Feb-2018 16:19:38 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/login.php on line 93
+[13-Feb-2018 16:21:26 UTC] PHP Warning:  preg_match(): Compilation failed: nothing to repeat at offset 9 in /home/rateteam/public_html/PHP/createUserAccount.php on line 75
+[13-Feb-2018 16:22:25 UTC] PHP Warning:  preg_match(): Compilation failed: nothing to repeat at offset 9 in /home/rateteam/public_html/PHP/createUserAccount.php on line 75
+[13-Feb-2018 16:22:25 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/createUserAccount.php on line 159
+[13-Feb-2018 16:22:25 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/createUserAccount.php on line 159
+[14-Feb-2018 20:25:14 UTC] PHP Warning:  preg_match(): Compilation failed: nothing to repeat at offset 9 in /home/rateteam/public_html/PHP/createUserAccount.php on line 75
+[14-Feb-2018 20:25:14 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/createUserAccount.php on line 159
+[14-Feb-2018 20:25:14 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/createUserAccount.php on line 159
+[14-Feb-2018 20:27:01 UTC] PHP Warning:  preg_match(): Compilation failed: nothing to repeat at offset 9 in /home/rateteam/public_html/PHP/createUserAccount.php on line 75
+[14-Feb-2018 20:27:44 UTC] PHP Warning:  preg_match(): Compilation failed: nothing to repeat at offset 9 in /home/rateteam/public_html/PHP/createUserAccount.php on line 75
+[14-Feb-2018 20:32:12 UTC] PHP Warning:  preg_match(): Compilation failed: nothing to repeat at offset 9 in /home/rateteam/public_html/PHP/createUserAccount.php on line 85
+[14-Feb-2018 20:38:15 UTC] PHP Warning:  preg_match(): Compilation failed: nothing to repeat at offset 9 in /home/rateteam/public_html/PHP/createUserAccount.php on line 85
+[19-Feb-2018 00:32:15 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/createUserAccount.php on line 149
+[19-Feb-2018 00:32:15 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/createUserAccount.php on line 149
+[19-Feb-2018 00:37:37 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/createUserAccount.php on line 149
+[19-Feb-2018 00:37:37 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/createUserAccount.php on line 149
+[19-Feb-2018 00:37:55 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/createUserAccount.php on line 149
+[19-Feb-2018 00:37:55 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/createUserAccount.php on line 149
+[19-Feb-2018 00:39:52 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/createUserAccount.php on line 149
+[19-Feb-2018 00:39:52 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/createUserAccount.php on line 149
+[19-Feb-2018 00:40:08 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/createUserAccount.php on line 149
+[19-Feb-2018 00:40:08 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/createUserAccount.php on line 149
+[19-Feb-2018 00:40:24 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/createUserAccount.php on line 149
+[19-Feb-2018 00:40:24 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/createUserAccount.php on line 149
+[19-Feb-2018 00:40:37 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/createUserAccount.php on line 149
+[19-Feb-2018 00:40:37 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/createUserAccount.php on line 149
+[19-Feb-2018 00:42:44 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/createUserAccount.php on line 149
+[19-Feb-2018 00:42:44 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/createUserAccount.php on line 149
+[19-Feb-2018 00:42:54 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/createUserAccount.php on line 149
+[19-Feb-2018 00:42:54 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/createUserAccount.php on line 149
+[19-Feb-2018 00:43:56 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/createUserAccount.php on line 149
+[19-Feb-2018 00:43:56 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/createUserAccount.php on line 149
+[19-Feb-2018 03:32:18 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/rateteam/public_html/PHP/listClubsByRating.php on line 10
+[19-Feb-2018 03:38:11 UTC] PHP Notice:  Undefined variable: emailresponse in /home/rateteam/public_html/PHP/listClubsByRating.php on line 10
+[19-Feb-2018 03:38:13 UTC] PHP Notice:  Undefined variable: emailresponse in /home/rateteam/public_html/PHP/listClubsByRating.php on line 10
+[21-Feb-2018 20:22:59 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/createUserAccount.php on line 149
+[21-Feb-2018 20:22:59 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/createUserAccount.php on line 149
+[26-Feb-2018 16:11:27 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/createUserAccount.php on line 149
+[26-Feb-2018 16:11:27 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/createUserAccount.php on line 149
+[26-Feb-2018 16:13:27 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/createUserAccount.php on line 149
+[26-Feb-2018 16:13:27 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/createUserAccount.php on line 149
+[26-Feb-2018 16:14:18 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/createUserAccount.php on line 150
+[26-Feb-2018 16:14:18 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/createUserAccount.php on line 150
+[26-Feb-2018 16:18:36 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/createUserAccount.php on line 150
+[26-Feb-2018 16:18:36 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/createUserAccount.php on line 150
+[26-Feb-2018 18:50:14 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/createUserAccount.php on line 150
+[26-Feb-2018 18:50:14 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/createUserAccount.php on line 150
+[26-Feb-2018 18:50:24 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/createUserAccount.php on line 150
+[26-Feb-2018 18:50:24 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/createUserAccount.php on line 150
+[27-Feb-2018 03:17:52 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/createUserAccount.php on line 150
+[27-Feb-2018 03:17:52 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/createUserAccount.php on line 150
+[27-Feb-2018 03:19:09 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/createUserAccount.php on line 150
+[27-Feb-2018 03:19:09 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/createUserAccount.php on line 150
+[12-Mar-2018 22:15:35 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/rateteam/public_html/PHP/insertClub.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/rateteam/public_html/PHP/insertClub.php on line 40
+[12-Mar-2018 22:16:03 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/rateteam/public_html/PHP/insertClub.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/rateteam/public_html/PHP/insertClub.php on line 40
+[12-Mar-2018 22:18:46 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/rateteam/public_html/PHP/insertClub.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/rateteam/public_html/PHP/insertClub.php on line 13
+[12-Mar-2018 22:19:44 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/rateteam/public_html/PHP/insertClub.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/rateteam/public_html/PHP/insertClub.php on line 13
+[12-Mar-2018 22:20:07 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/rateteam/public_html/PHP/insertClub.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/rateteam/public_html/PHP/insertClub.php on line 13
+[12-Mar-2018 22:20:30 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/rateteam/public_html/PHP/insertClub.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/rateteam/public_html/PHP/insertClub.php on line 13
+[12-Mar-2018 22:22:36 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/rateteam/public_html/PHP/insertClub.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/rateteam/public_html/PHP/insertClub.php on line 13
+[12-Mar-2018 22:24:22 UTC] PHP Notice:  Undefined variable: _SESSION in /home/rateteam/public_html/PHP/insertClub.php on line 15
+[12-Mar-2018 22:24:22 UTC] PHP Notice:  Undefined variable: name in /home/rateteam/public_html/PHP/insertClub.php on line 18
+[12-Mar-2018 22:24:22 UTC] PHP Notice:  Undefined variable: desc in /home/rateteam/public_html/PHP/insertClub.php on line 18
+[12-Mar-2018 22:24:22 UTC] PHP Notice:  Undefined variable: email in /home/rateteam/public_html/PHP/insertClub.php on line 18
+[12-Mar-2018 22:27:28 UTC] PHP Notice:  Undefined variable: _SESSION in /home/rateteam/public_html/PHP/insertClub.php on line 14
+[12-Mar-2018 22:30:19 UTC] PHP Notice:  Undefined variable: _SESSION in /home/rateteam/public_html/PHP/insertClub.php on line 14
+[13-Mar-2018 15:29:41 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/createUserAccount.php on line 151
+[13-Mar-2018 15:29:41 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/createUserAccount.php on line 151
+[13-Mar-2018 15:39:33 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/createUserAccount.php on line 151
+[13-Mar-2018 15:39:33 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/createUserAccount.php on line 151
+[13-Mar-2018 15:49:49 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/createUserAccount.php on line 151
+[13-Mar-2018 15:49:49 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/createUserAccount.php on line 151
+[13-Mar-2018 15:50:32 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/createUserAccount.php on line 151
+[13-Mar-2018 15:50:32 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/createUserAccount.php on line 151
+[13-Mar-2018 15:50:50 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/createUserAccount.php on line 151
+[13-Mar-2018 15:50:50 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/createUserAccount.php on line 151
+[13-Mar-2018 15:52:46 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/createUserAccount.php on line 151
+[13-Mar-2018 15:52:46 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/createUserAccount.php on line 151
+[13-Mar-2018 15:52:56 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/createUserAccount.php on line 151
+[13-Mar-2018 15:52:56 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/createUserAccount.php on line 151
+[13-Mar-2018 15:56:14 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/createUserAccount.php on line 151
+[13-Mar-2018 15:56:14 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/createUserAccount.php on line 151
+[13-Mar-2018 15:56:26 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/createUserAccount.php on line 151
+[13-Mar-2018 15:56:26 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/createUserAccount.php on line 151
+[13-Mar-2018 15:56:36 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/createUserAccount.php on line 151
+[13-Mar-2018 15:56:36 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/createUserAccount.php on line 151
+[13-Mar-2018 15:56:55 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/createUserAccount.php on line 151
+[13-Mar-2018 15:56:55 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/createUserAccount.php on line 151
+[14-Mar-2018 19:47:10 UTC] PHP Notice:  Undefined index: image in /home/rateteam/public_html/PHP/insertClub.php on line 9
+[14-Mar-2018 19:47:10 UTC] PHP Notice:  Undefined index: video in /home/rateteam/public_html/PHP/insertClub.php on line 10
+[19-Mar-2018 04:27:11 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE) in /home/rateteam/public_html/PHP/createUserAccount.php on line 133
+[19-Mar-2018 04:29:15 UTC] PHP Notice:  Undefined variable: commentReply in /home/rateteam/public_html/PHP/createUserAccount.php on line 141
+[19-Mar-2018 04:29:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on null in /home/rateteam/public_html/PHP/createUserAccount.php:141
+Stack trace:
+#0 {main}
+  thrown in /home/rateteam/public_html/PHP/createUserAccount.php on line 141
+[19-Mar-2018 04:32:06 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/createUserAccount.php on line 168
+[19-Mar-2018 04:32:06 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/createUserAccount.php on line 168
+[19-Mar-2018 04:32:06 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/createUserAccount.php on line 168
+[19-Mar-2018 04:32:06 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/createUserAccount.php on line 168
+[19-Mar-2018 04:33:38 UTC] PHP Notice:  Undefined variable: commentReply in /home/rateteam/public_html/PHP/createUserAccount.php on line 142
+[19-Mar-2018 04:33:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on null in /home/rateteam/public_html/PHP/createUserAccount.php:142
+Stack trace:
+#0 {main}
+  thrown in /home/rateteam/public_html/PHP/createUserAccount.php on line 142
+[19-Mar-2018 04:36:44 UTC] PHP Notice:  Undefined variable: commentReply in /home/rateteam/public_html/PHP/createUserAccount.php on line 143
+[19-Mar-2018 04:36:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on null in /home/rateteam/public_html/PHP/createUserAccount.php:143
+Stack trace:
+#0 {main}
+  thrown in /home/rateteam/public_html/PHP/createUserAccount.php on line 143
+[19-Mar-2018 04:37:40 UTC] PHP Notice:  Undefined variable: commentReply in /home/rateteam/public_html/PHP/createUserAccount.php on line 143
+[19-Mar-2018 04:37:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on null in /home/rateteam/public_html/PHP/createUserAccount.php:143
+Stack trace:
+#0 {main}
+  thrown in /home/rateteam/public_html/PHP/createUserAccount.php on line 143
+[19-Mar-2018 04:39:40 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/rateteam/public_html/PHP/createUserAccount.php:142
+Stack trace:
+#0 {main}
+  thrown in /home/rateteam/public_html/PHP/createUserAccount.php on line 142
+[19-Mar-2018 14:36:47 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/rateteam/public_html/PHP/createUserAccount.php:144
+Stack trace:
+#0 {main}
+  thrown in /home/rateteam/public_html/PHP/createUserAccount.php on line 144
+[21-Mar-2018 14:24:04 UTC] PHP Warning:  require_once(PHP/DBconnect.php): failed to open stream: No such file or directory in /home/rateteam/public_html/PHP/changeSchool.php on line 10
+[21-Mar-2018 14:24:04 UTC] PHP Fatal error:  require_once(): Failed opening required 'PHP/DBconnect.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/rateteam/public_html/PHP/changeSchool.php on line 10
+[21-Mar-2018 14:25:21 UTC] PHP Warning:  require_once(PHP/DBconnect.php): failed to open stream: No such file or directory in /home/rateteam/public_html/PHP/changeSchool.php on line 10
+[21-Mar-2018 14:25:21 UTC] PHP Fatal error:  require_once(): Failed opening required 'PHP/DBconnect.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/rateteam/public_html/PHP/changeSchool.php on line 10
+[21-Mar-2018 14:25:23 UTC] PHP Warning:  require_once(PHP/DBconnect.php): failed to open stream: No such file or directory in /home/rateteam/public_html/PHP/changeSchool.php on line 10
+[21-Mar-2018 14:25:23 UTC] PHP Fatal error:  require_once(): Failed opening required 'PHP/DBconnect.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/rateteam/public_html/PHP/changeSchool.php on line 10
+[21-Mar-2018 14:26:07 UTC] PHP Warning:  require_once(PHP/DBconnect.php): failed to open stream: No such file or directory in /home/rateteam/public_html/PHP/changeSchool.php on line 10
+[21-Mar-2018 14:26:07 UTC] PHP Fatal error:  require_once(): Failed opening required 'PHP/DBconnect.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/rateteam/public_html/PHP/changeSchool.php on line 10
+[21-Mar-2018 14:26:37 UTC] PHP Notice:  Undefined variable: _SESSION in /home/rateteam/public_html/PHP/changeSchool.php on line 13
+[21-Mar-2018 14:27:31 UTC] PHP Notice:  Undefined variable: _SESSION in /home/rateteam/public_html/PHP/changeSchool.php on line 12
+[21-Mar-2018 14:28:19 UTC] PHP Notice:  Undefined variable: _SESSION in /home/rateteam/public_html/PHP/changeSchool.php on line 12
+[21-Mar-2018 14:29:03 UTC] PHP Notice:  Undefined variable: _SESSION in /home/rateteam/public_html/PHP/changeSchool.php on line 12
+[21-Mar-2018 14:53:32 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/rateteam/public_html/PHP/changePassword.php on line 37
+[21-Mar-2018 14:53:32 UTC] PHP Notice:  Undefined variable: newpassword in /home/rateteam/public_html/PHP/changePassword.php on line 64
+[21-Mar-2018 14:55:30 UTC] PHP Notice:  Undefined variable: passchange in /home/rateteam/public_html/PHP/changePassword.php on line 65
+[21-Mar-2018 14:55:30 UTC] PHP Warning:  mysqli::query(): Empty query in /home/rateteam/public_html/PHP/changePassword.php on line 65
+[21-Mar-2018 15:09:27 UTC] PHP Notice:  Undefined index: email in /home/rateteam/public_html/PHP/changeEmail.php on line 16
+[21-Mar-2018 16:22:24 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/createUserAccount.php on line 189
+[21-Mar-2018 16:22:24 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/createUserAccount.php on line 189
+[21-Mar-2018 16:22:24 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/createUserAccount.php on line 189
+[21-Mar-2018 16:22:24 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/createUserAccount.php on line 189
+[21-Mar-2018 16:25:52 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rateteam/public_html/PHP/changeSchool.php on line 36
+[21-Mar-2018 16:37:42 UTC] PHP Notice:  Undefined index: email in /home/rateteam/public_html/PHP/changeEmail.php on line 11
+[21-Mar-2018 18:10:30 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/login.php on line 86
+[21-Mar-2018 18:10:30 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/login.php on line 86
+[27-Mar-2018 21:46:51 UTC] PHP Notice:  Undefined index: club_id in /home/rateteam/public_html/PHP/leaveRating.php on line 9
+[27-Mar-2018 21:47:48 UTC] PHP Notice:  Undefined index: club_id in /home/rateteam/public_html/PHP/leaveRating.php on line 9
+[27-Mar-2018 21:47:48 UTC] PHP Notice:  Trying to get property of non-object in /home/rateteam/public_html/PHP/leaveRating.php on line 23
+[27-Mar-2018 21:47:48 UTC] PHP Notice:  Undefined index: rating in /home/rateteam/public_html/PHP/leaveRating.php on line 28
+[27-Mar-2018 21:47:48 UTC] PHP Notice:  Undefined index: suggestion in /home/rateteam/public_html/PHP/leaveRating.php on line 28
+[27-Mar-2018 21:50:39 UTC] PHP Notice:  Undefined index: club_id in /home/rateteam/public_html/PHP/leaveRating.php on line 9
+[27-Mar-2018 21:50:39 UTC] PHP Notice:  Trying to get property of non-object in /home/rateteam/public_html/PHP/leaveRating.php on line 23
+[27-Mar-2018 21:50:39 UTC] PHP Notice:  Undefined index: rating in /home/rateteam/public_html/PHP/leaveRating.php on line 28
+[27-Mar-2018 21:50:39 UTC] PHP Notice:  Undefined index: suggestion in /home/rateteam/public_html/PHP/leaveRating.php on line 28
+[27-Mar-2018 21:53:30 UTC] PHP Notice:  Undefined index: club_id in /home/rateteam/public_html/PHP/leaveRating.php on line 9
+[27-Mar-2018 21:53:30 UTC] PHP Notice:  Trying to get property of non-object in /home/rateteam/public_html/PHP/leaveRating.php on line 23
+[27-Mar-2018 21:53:30 UTC] PHP Notice:  Undefined index: rating in /home/rateteam/public_html/PHP/leaveRating.php on line 28
+[27-Mar-2018 21:53:30 UTC] PHP Notice:  Undefined index: suggestion in /home/rateteam/public_html/PHP/leaveRating.php on line 28
+[28-Mar-2018 03:28:47 UTC] PHP Notice:  Undefined index: club_id in /home/rateteam/public_html/PHP/leaveRating.php on line 9
+[28-Mar-2018 03:28:47 UTC] PHP Notice:  Trying to get property of non-object in /home/rateteam/public_html/PHP/leaveRating.php on line 26
+[28-Mar-2018 03:28:47 UTC] PHP Notice:  Undefined index: rating in /home/rateteam/public_html/PHP/leaveRating.php on line 31
+[28-Mar-2018 03:28:47 UTC] PHP Notice:  Undefined index: suggestion in /home/rateteam/public_html/PHP/leaveRating.php on line 31
+[28-Mar-2018 03:37:33 UTC] PHP Notice:  Undefined index: club_id in /home/rateteam/public_html/PHP/leaveRating.php on line 9
+[28-Mar-2018 03:37:33 UTC] PHP Notice:  Trying to get property of non-object in /home/rateteam/public_html/PHP/leaveRating.php on line 26
+[28-Mar-2018 03:37:33 UTC] PHP Notice:  Undefined index: rating in /home/rateteam/public_html/PHP/leaveRating.php on line 31
+[28-Mar-2018 03:37:33 UTC] PHP Notice:  Undefined index: suggestion in /home/rateteam/public_html/PHP/leaveRating.php on line 31
+[28-Mar-2018 03:37:41 UTC] PHP Notice:  Undefined index: rating in /home/rateteam/public_html/PHP/leaveRating.php on line 31
+[28-Mar-2018 03:37:41 UTC] PHP Notice:  Undefined index: suggestion in /home/rateteam/public_html/PHP/leaveRating.php on line 31
+[28-Mar-2018 03:40:54 UTC] PHP Notice:  Undefined index: rating in /home/rateteam/public_html/PHP/leaveRating.php on line 38
+[28-Mar-2018 03:40:54 UTC] PHP Notice:  Undefined index: suggestion in /home/rateteam/public_html/PHP/leaveRating.php on line 38
+[28-Mar-2018 03:57:33 UTC] PHP Notice:  Undefined index: rating in /home/rateteam/public_html/PHP/leaveRating.php on line 27
+[28-Mar-2018 03:58:32 UTC] PHP Notice:  Undefined index: rating in /home/rateteam/public_html/PHP/leaveRating.php on line 27
+[28-Mar-2018 04:08:25 UTC] PHP Notice:  Undefined index: club in /home/rateteam/public_html/PHP/leaveRating.php on line 34
+[28-Mar-2018 04:08:25 UTC] PHP Notice:  Undefined index: school in /home/rateteam/public_html/PHP/leaveRating.php on line 34
+[28-Mar-2018 04:24:53 UTC] PHP Notice:  Trying to get property of non-object in /home/rateteam/public_html/PHP/leaveRating.php on line 37
+[28-Mar-2018 04:26:50 UTC] PHP Notice:  Trying to get property of non-object in /home/rateteam/public_html/PHP/leaveRating.php on line 40
+[28-Mar-2018 04:27:29 UTC] PHP Notice:  Trying to get property of non-object in /home/rateteam/public_html/PHP/leaveRating.php on line 41
+[28-Mar-2018 04:28:08 UTC] PHP Notice:  Undefined variable: input in /home/rateteam/public_html/PHP/leaveRating.php on line 44
+[04-Apr-2018 19:18:33 UTC] PHP Notice:  Undefined index: club_id in /home/rateteam/public_html/PHP/leaveRating.php on line 9
+[04-Apr-2018 19:18:33 UTC] PHP Notice:  Trying to get property of non-object in /home/rateteam/public_html/PHP/leaveRating.php on line 26
+[04-Apr-2018 19:18:47 UTC] PHP Notice:  Undefined index: club_id in /home/rateteam/public_html/PHP/leaveRating.php on line 9
+[04-Apr-2018 19:18:47 UTC] PHP Notice:  Trying to get property of non-object in /home/rateteam/public_html/PHP/leaveRating.php on line 26
+[04-Apr-2018 19:19:22 UTC] PHP Notice:  Undefined index: club_id in /home/rateteam/public_html/PHP/leaveRating.php on line 9
+[04-Apr-2018 19:19:22 UTC] PHP Notice:  Trying to get property of non-object in /home/rateteam/public_html/PHP/leaveRating.php on line 26
+[04-Apr-2018 20:34:17 UTC] PHP Notice:  Undefined index: club_id in /home/rateteam/public_html/PHP/leaveRating.php on line 9
+[04-Apr-2018 20:34:17 UTC] PHP Notice:  Trying to get property of non-object in /home/rateteam/public_html/PHP/leaveRating.php on line 26
+[04-Apr-2018 20:37:44 UTC] PHP Notice:  Undefined index: club_id in /home/rateteam/public_html/PHP/leaveRating.php on line 9
+[04-Apr-2018 20:37:44 UTC] PHP Notice:  Trying to get property of non-object in /home/rateteam/public_html/PHP/leaveRating.php on line 27
+[04-Apr-2018 20:39:23 UTC] PHP Notice:  Undefined index: club_id in /home/rateteam/public_html/PHP/leaveRating.php on line 9
+[04-Apr-2018 20:39:23 UTC] PHP Notice:  Trying to get property of non-object in /home/rateteam/public_html/PHP/leaveRating.php on line 27
+[04-Apr-2018 20:39:47 UTC] PHP Notice:  Undefined index: club_id in /home/rateteam/public_html/PHP/leaveRating.php on line 9
+[04-Apr-2018 20:39:47 UTC] PHP Notice:  Trying to get property of non-object in /home/rateteam/public_html/PHP/leaveRating.php on line 27
+[04-Apr-2018 20:40:18 UTC] PHP Notice:  Undefined index: club_id in /home/rateteam/public_html/PHP/leaveRating.php on line 9
+[04-Apr-2018 20:40:18 UTC] PHP Notice:  Trying to get property of non-object in /home/rateteam/public_html/PHP/leaveRating.php on line 27
+[09-Apr-2018 00:08:31 UTC] PHP Notice:  Undefined variable: newpassword in /home/rateteam/public_html/PHP/changePassword.php on line 64
+[09-Apr-2018 00:33:21 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/login.php on line 86
+[09-Apr-2018 00:33:21 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/login.php on line 86
+[09-Apr-2018 00:33:21 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/login.php on line 86
+[09-Apr-2018 00:33:21 UTC] PHP Warning:  A non-numeric value encountered in /home/rateteam/public_html/PHP/login.php on line 86
+[09-Apr-2018 15:42:42 UTC] PHP Notice:  Undefined variable: updateResponse in /home/rateteam/public_html/PHP/leaveRating.php on line 82
+[09-Apr-2018 15:42:42 UTC] PHP Notice:  Trying to get property of non-object in /home/rateteam/public_html/PHP/leaveRating.php on line 82
+[09-Apr-2018 15:43:47 UTC] PHP Notice:  Undefined variable: updateResponse in /home/rateteam/public_html/PHP/leaveRating.php on line 82
+[09-Apr-2018 15:43:47 UTC] PHP Notice:  Trying to get property of non-object in /home/rateteam/public_html/PHP/leaveRating.php on line 82
+[09-Apr-2018 15:52:24 UTC] PHP Notice:  Undefined variable: updateResponse in /home/rateteam/public_html/PHP/leaveRating.php on line 82
+[09-Apr-2018 15:52:24 UTC] PHP Notice:  Trying to get property of non-object in /home/rateteam/public_html/PHP/leaveRating.php on line 82
+[09-Apr-2018 18:45:10 UTC] PHP Notice:  Undefined variable: updateResponse in /home/rateteam/public_html/PHP/leaveRating.php on line 82
+[09-Apr-2018 18:45:10 UTC] PHP Notice:  Trying to get property of non-object in /home/rateteam/public_html/PHP/leaveRating.php on line 82
+[11-Apr-2018 15:21:55 UTC] PHP Notice:  Undefined variable: updateResponse in /home/rateteam/public_html/PHP/leaveRating.php on line 82
+[11-Apr-2018 15:21:55 UTC] PHP Notice:  Trying to get property of non-object in /home/rateteam/public_html/PHP/leaveRating.php on line 82
+[11-Apr-2018 15:35:16 UTC] PHP Notice:  Undefined variable: updateResponse in /home/rateteam/public_html/PHP/leaveRating.php on line 83
+[11-Apr-2018 15:35:16 UTC] PHP Notice:  Trying to get property of non-object in /home/rateteam/public_html/PHP/leaveRating.php on line 83
+[11-Apr-2018 15:35:16 UTC] PHP Notice:  Undefined variable: updateSchoolAverage in /home/rateteam/public_html/PHP/leaveRating.php on line 94
+[11-Apr-2018 15:36:55 UTC] PHP Notice:  Undefined variable: updateResponse in /home/rateteam/public_html/PHP/leaveRating.php on line 83
+[11-Apr-2018 15:36:55 UTC] PHP Notice:  Trying to get property of non-object in /home/rateteam/public_html/PHP/leaveRating.php on line 83
+[11-Apr-2018 15:36:55 UTC] PHP Notice:  Undefined variable: updateSchoolAverage in /home/rateteam/public_html/PHP/leaveRating.php on line 94
+[11-Apr-2018 15:37:22 UTC] PHP Notice:  Undefined variable: updateResponse in /home/rateteam/public_html/PHP/leaveRating.php on line 83
+[11-Apr-2018 15:37:22 UTC] PHP Notice:  Trying to get property of non-object in /home/rateteam/public_html/PHP/leaveRating.php on line 83
+[11-Apr-2018 15:37:22 UTC] PHP Notice:  Undefined variable: updateSchoolAverage in /home/rateteam/public_html/PHP/leaveRating.php on line 94
+[11-Apr-2018 15:39:01 UTC] PHP Notice:  Trying to get property of non-object in /home/rateteam/public_html/PHP/leaveRating.php on line 83
+[11-Apr-2018 15:39:01 UTC] PHP Notice:  Undefined variable: updateSchoolAverage in /home/rateteam/public_html/PHP/leaveRating.php on line 94
+[11-Apr-2018 15:49:16 UTC] PHP Notice:  Trying to get property of non-object in /home/rateteam/public_html/PHP/leaveRating.php on line 83
+[18-Apr-2018 04:10:57 UTC] PHP Notice:  Undefined index: comId in /home/rateteam/public_html/PHP/removeComment.php on line 4
+[18-Apr-2018 04:11:46 UTC] PHP Notice:  Undefined index: comId in /home/rateteam/public_html/PHP/removeComment.php on line 4
+[18-Apr-2018 04:22:58 UTC] PHP Notice:  Undefined index: comIdE in /home/rateteam/public_html/PHP/editRating.php on line 4
+[18-Apr-2018 04:23:20 UTC] PHP Notice:  Undefined index: comIdE in /home/rateteam/public_html/PHP/editRating.php on line 4
+[18-Apr-2018 04:26:19 UTC] PHP Notice:  Undefined index: comIdE in /home/rateteam/public_html/PHP/editRating.php on line 5
+[18-Apr-2018 04:28:13 UTC] PHP Notice:  Undefined index: comIdE in /home/rateteam/public_html/PHP/editRating.php on line 5
+[18-Apr-2018 17:06:13 UTC] PHP Notice:  Undefined index: comIdE in /home/rateteam/public_html/PHP/editRating.php on line 5
+[18-Apr-2018 17:07:16 UTC] PHP Notice:  Undefined index: comIdE in /home/rateteam/public_html/PHP/editRating.php on line 5
+[18-Apr-2018 17:11:07 UTC] PHP Notice:  Undefined index: comIdE in /home/rateteam/public_html/PHP/editRating.php on line 5
+[18-Apr-2018 17:11:38 UTC] PHP Notice:  Undefined index: comIdE in /home/rateteam/public_html/PHP/editRating.php on line 5
+[18-Apr-2018 17:15:00 UTC] PHP Notice:  Undefined index: comIdE in /home/rateteam/public_html/PHP/editRating.php on line 6
+[18-Apr-2018 17:17:42 UTC] PHP Notice:  Undefined index: comIdE in /home/rateteam/public_html/PHP/editRating.php on line 6
+[18-Apr-2018 17:21:32 UTC] PHP Notice:  Undefined index: comIdE in /home/rateteam/public_html/PHP/editRating.php on line 6
+[18-Apr-2018 17:23:04 UTC] PHP Notice:  Undefined index: comIdE in /home/rateteam/public_html/PHP/editRating.php on line 6
+[18-Apr-2018 17:23:39 UTC] PHP Notice:  Undefined index: comIdE in /home/rateteam/public_html/PHP/editRating.php on line 6
+[18-Apr-2018 17:23:47 UTC] PHP Notice:  Undefined index: comIdE in /home/rateteam/public_html/PHP/editRating.php on line 6
+[18-Apr-2018 17:23:57 UTC] PHP Notice:  Undefined index: comIdE in /home/rateteam/public_html/PHP/editRating.php on line 6
+[18-Apr-2018 19:06:03 UTC] PHP Notice:  Undefined index: club in /home/rateteam/public_html/PHP/removeComment.php on line 30
+[18-Apr-2018 19:06:03 UTC] PHP Notice:  Undefined index: school in /home/rateteam/public_html/PHP/removeComment.php on line 30
+[18-Apr-2018 19:06:12 UTC] PHP Notice:  Undefined index: club in /home/rateteam/public_html/PHP/removeComment.php on line 30
+[18-Apr-2018 19:06:12 UTC] PHP Notice:  Undefined index: school in /home/rateteam/public_html/PHP/removeComment.php on line 30
+[18-Apr-2018 19:17:39 UTC] PHP Notice:  Undefined index: club in /home/rateteam/public_html/PHP/removeComment.php on line 30
+[18-Apr-2018 19:17:39 UTC] PHP Notice:  Undefined index: school in /home/rateteam/public_html/PHP/removeComment.php on line 30
+[18-Apr-2018 21:02:07 UTC] PHP Notice:  Undefined index: club in /home/rateteam/public_html/PHP/removeComment.php on line 30
+[18-Apr-2018 21:02:07 UTC] PHP Notice:  Undefined index: school in /home/rateteam/public_html/PHP/removeComment.php on line 30
+[18-Apr-2018 21:02:15 UTC] PHP Notice:  Undefined index: club in /home/rateteam/public_html/PHP/removeComment.php on line 30
+[18-Apr-2018 21:02:15 UTC] PHP Notice:  Undefined index: school in /home/rateteam/public_html/PHP/removeComment.php on line 30
+[18-Apr-2018 21:03:10 UTC] PHP Warning:  Division by zero in /home/rateteam/public_html/PHP/removeComment.php on line 17
+[18-Apr-2018 21:04:02 UTC] PHP Warning:  Division by zero in /home/rateteam/public_html/PHP/removeComment.php on line 17
+[18-Apr-2018 21:05:46 UTC] PHP Warning:  Division by zero in /home/rateteam/public_html/PHP/removeComment.php on line 17
+[18-Apr-2018 21:06:37 UTC] PHP Warning:  Division by zero in /home/rateteam/public_html/PHP/leaveRating.php on line 85
+[19-Apr-2018 01:00:54 UTC] PHP Notice:  Undefined index: club in /home/rateteam/public_html/PHP/removeComment.php on line 30
+[19-Apr-2018 01:00:54 UTC] PHP Notice:  Undefined index: school in /home/rateteam/public_html/PHP/removeComment.php on line 30
+[19-Apr-2018 01:48:28 UTC] PHP Notice:  Undefined index: club in /home/rateteam/public_html/PHP/removeComment.php on line 30
+[19-Apr-2018 01:48:28 UTC] PHP Notice:  Undefined index: school in /home/rateteam/public_html/PHP/removeComment.php on line 30
+[19-Apr-2018 02:57:52 UTC] PHP Notice:  Undefined index: club in /home/rateteam/public_html/PHP/removeComment.php on line 30
+[19-Apr-2018 02:57:52 UTC] PHP Notice:  Undefined index: school in /home/rateteam/public_html/PHP/removeComment.php on line 30
+[19-Apr-2018 02:58:30 UTC] PHP Notice:  Undefined index: club in /home/rateteam/public_html/PHP/removeComment.php on line 30
+[19-Apr-2018 02:58:30 UTC] PHP Notice:  Undefined index: school in /home/rateteam/public_html/PHP/removeComment.php on line 30
+[19-Apr-2018 03:07:57 UTC] PHP Notice:  Undefined index: club in /home/rateteam/public_html/PHP/removeComment.php on line 30
+[19-Apr-2018 03:07:57 UTC] PHP Notice:  Undefined index: school in /home/rateteam/public_html/PHP/removeComment.php on line 30
+[20-Apr-2018 21:35:37 UTC] PHP Notice:  Undefined index: schoolId in /home/rateteam/public_html/PHP/editRating.php on line 10
+[20-Apr-2018 21:35:37 UTC] PHP Notice:  Trying to get property of non-object in /home/rateteam/public_html/PHP/editRating.php on line 15
+[20-Apr-2018 21:35:37 UTC] PHP Notice:  Undefined index: club in /home/rateteam/public_html/PHP/editRating.php on line 30
+[20-Apr-2018 21:35:37 UTC] PHP Notice:  Undefined index: school in /home/rateteam/public_html/PHP/editRating.php on line 30
+[21-Apr-2018 20:02:22 UTC] PHP Notice:  Undefined index: myCollege in /home/rateteam/public_html/PHP/insertClub.php on line 14

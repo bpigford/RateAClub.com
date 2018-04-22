@@ -1,0 +1,145 @@
+:root {
+    --maincolor: #d9d9d9; /*Aluminum*/
+    --topbar: #4484ce;   /*Cerulean*/
+    --headers: #f9cf00; /*Light*/
+    --accent: #f19f4d; /*Tangerine*/
+}
+
+html {
+    /*background-color: #41464f;*/
+    background-color: var(--topbar);
+}
+
+.container {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.my-2 {
+    margin-left: 3%;
+    margin-right: 3%;
+    font-size: 1.85em;
+}
+
+#sub {
+    margin: 0px;
+}
+
+h5 {
+    margin-left: 2px;
+    font-family: Lucida Console, Georgia;
+}
+
+#help-header {
+    background-color: var(--headers);
+}
+
+.text-center {
+    /*background-color: #41464f;*/
+    background-color: var(--maincolor); /*or use #efefef*/
+    border-bottom: 1px solid var(--accent);
+    border-radius: 0px;
+    margin-bottom: 0px;
+}
+
+/*.bg-light {
+  /*background-color: #41464f;*/
+/*  background-color: var(--maincolor);
+}*/
+
+footer {
+    /*background-color: #41464f;*/
+    background-color: var(--topbar);
+}
+
+.list-container {
+    margin-bottom: 25px;
+}
+
+.list-header {
+    background-color: var(--headers);
+    border-radius: 7px;
+    margin-bottom: 5px;
+}
+
+ol {
+    background-color: var(--maincolor);
+    border-radius: 3px;
+}
+
+ul {
+    background-color: var(--maincolor);
+    list-style-type: none;
+    border-radius: 3px;
+}
+
+li {
+    margin: auto;
+    margin-bottom: 3px;
+    font-family: Lucida Console, Georgia;
+    padding: 3px;
+}
+
+#card-back {
+    /*background-color: #41464f;*/
+    background-color: var(--maincolor);
+}
+
+.mr-auto {
+    margin-right: 20%;
+}
+
+.mt-md-0 {
+    margin-left: 25%;
+}
+
+.navbar-brand {
+    margin-right: 10%;
+    padding-left: 3%;
+}
+
+.login-container {
+    background-color: var(--accent);
+    padding: 20px;
+    display: inline-block;
+    position: absolute;
+    left: 18%;
+    z-index: 1;
+    border-radius: 10px;
+}
+
+#create {
+    border-bottom: 10px solid #f4eb42;
+    margin: 0px;
+}
+
+.my-log {
+    display: block;
+}
+
+.logo {
+    margin-left: 25%;
+}
+
+.schooltag {
+    display: inline;
+    width: 100px;
+    height: 50px;
+    border-radius: 30px;
+    margin: 50%;
+}
+
+.schoollocation {
+    display: inline-block;
+}
+
+.seal {
+    display: inline;
+    margin-left: 75%;
+}
+.list-container {
+    display: inline;
+}
+.about-school {
+    position: center;
+}

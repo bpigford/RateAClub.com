@@ -1,0 +1,20 @@
+<!-- Tag form created -->
+<form action="PHP/insertClub.php method="POST">
+	<h5>Tags</h5>
+	<input type="text" name="tag" />
+	<input type="submit"></input>
+</form>
+
+<!-- php script that inserts tag if does not already exist or gets tag if already exist -->
+<?php
+	$tag = $_POST('tag');
+	$clubId = "Select club_id FROM Clubs WHERE (club_name = '" .$clubName.");";
+	$tag_find = "Select text FROM Tags WHERE EXISTS (text = '" .$tag.");";
+	if(!$tag_find){
+		$insert = "INSERT INTO Tags (club_id, text) 
+					VALUE (" .$clubId." , ".$tag.");";
+	}
+	else{
+		//Suppose to send tag id to clubs but Clubs table does not currently hold tag_id.
+	}
+?>

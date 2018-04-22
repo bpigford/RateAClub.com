@@ -1,0 +1,35 @@
+.error-message {
+  background-color: red;
+}
+
+html {
+  background-color: #41464f;
+}
+
+.comment-background {
+  background-color: #7a808c;
+  padding: 10px;
+}
+
+.bg-light {
+  background-color: #41464f;
+}
+
+footer {
+  background-color: #41464f;
+}
+
+.text-center {
+  background-color: #41464f;
+  border-color: white;
+  border-radius: 0px;
+  margin-bottom: 1px;
+}
+
+#card-back {
+  background-color: #41464f;
+}
+
+#topbar {
+  border-bottom: 1px solid white;
+}

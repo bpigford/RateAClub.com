@@ -1,0 +1,199 @@
+:root {
+    --maincolor: #f7f7f7; /*Aluminum*/
+    --topbar: #4693ea;   /*Cerulean*/
+    --headers: #f9cf00; /*Light*/
+    --accent: #ff962d; /*Tangerine*/
+}
+
+/*html {
+  background-color: #41464f;
+}*/
+
+.overall-rate {
+  width: 18%;
+}
+
+.new-comment-container {
+  background-color: var(--accent);
+  padding: 10px;
+  border-radius: 5px;
+  position: absolute;
+  left: 7%;
+  top: 580px;
+}
+
+.edit-comment-container {
+  background-color: var(--accent);
+  padding: 10px;
+  border-radius: 5px;
+  position: absolute;
+  left: 13%;
+  top: 580px;
+}
+
+.new-comment-star {
+  width: 12%;
+}
+
+.comment-rate {
+  width: 10%;
+}
+
+.container {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+/*.my-2 {
+  margin-left: 3%;
+  margin-right: 3%; 
+  font-size: 1.85em;
+}*/
+
+#sub {
+  margin: 0px;
+}
+
+h5 {
+  margin-left: 2px;
+}
+
+#help-header {
+  background-color: #131314;
+}
+
+#help {
+  color: #fcfcfc;
+}
+
+.text-center {
+  background-color: var(--maincolor);
+  border-radius: 0px;
+  margin-bottom: 0px;
+}
+
+#comment-id {
+  background-color: var(--maincolor);
+}
+
+/*.bg-light {
+  background-color: #41464f;
+}*/
+
+footer {
+  background-color: var(--topbar);
+}
+
+.list-container {
+  margin-bottom: 25px;
+}
+
+.list-header {
+  background-color: var(--headers);
+}
+
+ol {
+  background-color: #7a808c;
+}
+
+ul {
+  background-color: var(--accent);
+  list-style-type: none;
+}
+
+li {
+  margin-bottom: 3px;
+}
+
+#card-back {
+  background-color: var(--maincolor);
+}
+
+.mr-auto {
+  margin-right: 20%;
+}
+
+.mt-md-0 {
+  margin-left: 25%;
+}
+
+.navbar-brand {
+  margin-right: 10%;
+}
+
+/*.login-container {
+  background-color: #f4eb42;
+  padding: 20px;
+  display: inline-block;
+  position: absolute;
+  left: 18%;
+}*/
+
+/*#create {
+  border-bottom: 10px solid #f4eb42;
+  margin: 0px;
+}*/
+
+.my-log {
+  display: block;
+}
+
+.contact-container {
+  border-radius: 10px;
+  padding: 15px;
+  margin-right: 2%;
+  width: 30%;
+  display: inline-block;
+  background-color: white;
+}
+
+.club-container {
+  border-radius: 35px;
+  padding: 15px;
+  margin-left: 2%;
+  margin-right: 2%;
+  width: 30%;
+  display: inline-block;
+  background-color: red;
+}
+
+.star-container {
+  border-radius: 10px;
+  padding: 15px;
+  margin-left: 2%;
+  width: 30%;
+  display: inline-block;
+  background-color: grey;
+}
+
+.comment-header {
+  background-color: var(--headers);
+}
+
+#rate-btn {
+  margin: auto;
+}
+
+.comment-background {
+  background-color: var(--accent);
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.comment-text {
+  background-color: white;
+  border-radius: 5px;
+  padding-left: 7px;
+  padding-right: 7px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.star-div {
+  margin-top: 10px;
+}
+
+.info-container {
+  background-color: var(--maincolor);
+  padding: 10px;
+}
