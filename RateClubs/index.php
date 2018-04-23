@@ -378,10 +378,10 @@
 
     <footer class="text-muted" style="padding-top:20px;padding-bottom:20px;">
       <div style="width:50%;margin:auto;align:center;">
-        <p style="padding-top:20px;margin:auto;width:100%;align:center;">2018 Bridgewater College</p>
+        <p style="padding-top:20px;margin:auto;width:100%;text-align:center;">2018 Bridgewater College</p>
       </div>
       <div style="width:50%;margin:auto;align:center;">
-        <a href="faq.php" style="padding-top:20px;margin:auto;width:100%;align:center;">FAQ</a>
+        <a href="faq.php" style="padding-top:20px;margin:auto;width:100%;text-align:center;">FAQ</a>
       </div>
 </footer>
     
